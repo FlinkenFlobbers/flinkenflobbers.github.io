@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Jungle
-date: "August 11, 2024, 02:12:52 +0200"
+title: 'Welcome to the Jungle'
+date: 2024-06-23 21:56:58 -0700
 category: welcome
 ---
 
